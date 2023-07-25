@@ -7,8 +7,7 @@
 
 ![Eric GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ericsilvaa&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ericsilvaa&langs_count=8)
 
 
 ### Tecnologias que eu uso no meu dia
