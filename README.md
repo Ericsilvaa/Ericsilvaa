@@ -7,6 +7,8 @@
 
 ![Eric GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ericsilvaa&show_icons=true&theme=dark)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
