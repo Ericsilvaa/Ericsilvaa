@@ -7,10 +7,9 @@
 
 ![Eric GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ericsilvaa&show_icons=true&theme=dark)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ericsilvaa&repo=movie_fav_redux)](https://github.com/Ericsilvaa/movie_fav_redux)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ericsilvaa&repo=react-static-archive-w-sass-course)](https://github.com/Ericsilvaa/react-static-archive-w-sass-course)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ericsilvaa&repo=search_cep_react)](https://github.com/Ericsilvaa/search_cep_react)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ericsilvaa&repo=stock-trader)](https://github.com/Ericsilvaa/stock-trader)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+
 
 ### Tecnologias que eu uso no meu dia
 
