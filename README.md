@@ -9,7 +9,7 @@ Sou **Desenvolvedor Fullstack** com mais de **5 anos de experiência** construin
 - **Gerenciamento de Estado**: Redux Toolkit, Zustand
 - **Backend**: Node.js, Express, MongoDB
 - **Validações e Formulários**: Zod, React Hook Form
-- **Outros**: Firebase, Radix UI, Framer Motion, Docker
+- **Outros**: Firebase, Supabase, Radix UI, Framer Motion, Docker
 
 ## 🚀 Sobre minha experiência
 
